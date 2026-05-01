@@ -2,9 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Durga%20Damai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Econometrics%20Enthusiast&descAlignY=58&descSize=18)
 
-<a href="https://github.com/durgadamai10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Data%20Science%20%26%20Econometrics%20Enthusiast;Turning%20data%20into%20meaningful%20economic%20insights;Python%2B%2526%2BSQL%2BEnthusiast;Data%2BStoryteller" alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Data%20Science%20%26%20Econometrics%20Enthusiast;Turning%20data%20into%20meaningful%20economic%20insights;Python%2B%26%2BSQL%2BEnthusiast;Data%20Storyteller)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=durgadamai10&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="profile views" />
