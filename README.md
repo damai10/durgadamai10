@@ -3,13 +3,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Durga%20Damai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Econometrics%20Enthusiast&descAlignY=58&descSize=18)
 
 <a href="https://github.com/durgadamai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Data%20Science%20%26%20Econometrics%20Enthusiast;Turning%20data%20into%20meaningful%20economic%20insights;Python%2B%2526%2BSQL%2BEnthusiast;Data%2BStoryteller" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Data%20Science%20%26%20Econometrics%20Enthusiast;Turning%20data%20into%20meaningful%20economic%20insights;Python%2B%2526%2BSQL%2BEnthusiast;Data%2BStoryteller" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=durgadamai&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=durgadamai&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="profile views" />
   <a href="https://github.com/durgadamai?tab=followers">
-    <img src="https://img.shields.io/github/followers/durgadamai?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/durgadamai?label=Followers&amp;style=social" alt="followers" />
   </a>
 </p>
 
@@ -84,20 +84,20 @@ Constructed HDI & GDI from scratch (UNDP methodology) over a 2009–2019 panel f
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=durgadamai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgadamai&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=durgadamai&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgadamai&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgadamai&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgadamai&amp;theme=tokyonight&amp;hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=durgadamai&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=durgadamai&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" />
 
 </div>
 
@@ -107,7 +107,7 @@ Constructed HDI & GDI from scratch (UNDP methodology) over a 2009–2019 panel f
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=durgadamai&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=durgadamai&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7" />
 
 </div>
 
