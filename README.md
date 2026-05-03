@@ -1,130 +1,293 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Durga Damai | Aspiring Data Analyst</h1>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Durga%20Damai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Econometrics%20Enthusiast&descAlignY=58&descSize=18)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Data%20Science%20%26%20Econometrics%20Enthusiast;Turning%20data%20into%20meaningful%20economic%20insights;Python%2B%26%2BSQL%2BEnthusiast;Data%20Storyteller)
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=durgadamai10&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="profile views" />
-  <a href="https://github.com/durgadamai10?tab=followers">
-    <img src="https://img.shields.io/github/followers/durgadamai10?label=Followers&amp;style=social" alt="followers" />
-  </a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Economics+%2B+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+STATA+%7C+R;End-to-End+Analytics+%7C+Economic+Research;Turning+Data+into+Decisions+%F0%9F%93%8A" />
 </p>
 
-</div>
+<p align="center">
+Aspiring Data Analyst with an M.Sc. in Economics and a Diploma in Data Science — turning raw data into actionable business and economic insights using Python, SQL, and Power BI.
+</p>
+
+<p align="center">
+💻 Python | SQL | Power BI | R | STATA | Excel
+</p>
+
+<hr style="border: 1px solid #2f2f2f; width: 60%;" />
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💼 About Me
 
-- 🎓 M.Sc. in Economics (Vidyasagar University) — specialised in Quantitative Methods & Econometrics
-- 📊 Data Science Intern @ Sudaku CodeClause — clustering, forecasting & EDA
-- 🔬 Researcher passionate about development economics, well-being indices & policy analytics
-- 🛠️ I build with Python, SQL, Power BI, STATA, R & Advanced Excel
-- 🌍 Based in **Kharagpur, West Bengal, India**
-- 🌱 Currently learning **Advanced Machine Learning, Deep Learning & MLOps**
-- ⚡ Fun fact: *Behind every economic indicator there's a human story — I love uncovering it with data.*
+I am an **Aspiring Data Analyst** with a strong foundation in **Economics and Data Science**, passionate about transforming complex datasets into meaningful insights that drive real decisions.
 
----
+With hands-on experience in **Python, SQL, Power BI, STATA, and R**, I focus on solving real-world problems through **data analysis, statistical modelling, and business storytelling**.
 
-## 🛠️ Tech Stack & Tools
+I enjoy working on end-to-end data projects — from **data cleaning and exploratory analysis to dashboard creation, forecasting, and insight generation**.
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-3B5998?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![STATA](https://img.shields.io/badge/-STATA-1A5CA1?style=for-the-badge&logo=stata&logoColor=white) ![SPSS](https://img.shields.io/badge/-SPSS-052F5F?style=for-the-badge&logo=ibm&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+I bring a unique edge: my **M.Sc. Economics background** allows me to connect data findings to **macro-level economic patterns, policy implications, and business strategy** — something most data analysts cannot offer.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Core Skills
 
-### BRICS Well-being Indices Analysis
-M.Sc. dissertation comparing HDI, SPI, HPI, GPI, ISEW & GNI across BRICS nations using Pearson/Spearman correlations.
+- **Languages & Tools:**
+  - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels)
+  - SQL (MySQL)
+  - R | STATA | SPSS | EViews
+  - Power BI (DAX, Data Modeling)
+  - Excel (Advanced Dashboards)
 
-`Excel, Statistical Analysis`
+- **Analytics Techniques:**
+  - Exploratory Data Analysis (EDA)
+  - RFM Analysis & Customer Segmentation
+  - Time Series Forecasting (SARIMA)
+  - K-Means Clustering (Machine Learning)
+  - Cohort Analysis & CLTV
+  - A/B Testing & Statistical Significance
+  - Anomaly Detection & Root Cause Analysis
+  - Market Basket Analysis (Apriori)
+  - Regression Analysis & Hypothesis Testing
 
-### Customer Segmentation & Behavioural Analysis
-RFM modelling + K-Means clustering (Elbow Method) to segment customers into 5 actionable groups.
+- **Visualization & BI:**
+  - Power BI Dashboards
+  - Matplotlib & Seaborn
+  - Excel Dashboards
 
-`Python, Scikit-learn, Pandas`
-
-### Demand Forecasting for Retail
-SARIMA time-series models with seasonality decomposition; evaluated via MAE, RMSE, MAPE for 30-day forecasts.
-
-`Python, Statsmodels, SARIMA`
-
-### Customer Churn & Retention Analysis
-Cohort analysis and regional segmentation to surface churn drivers and retention opportunities.
-
-`Python, Power BI`
-
-### A/B Testing & Campaign Performance
-Hypothesis testing on campaign variants; quantified revenue lift with statistical significance.
-
-`Power BI, DAX`
-
-### HDI: West Bengal vs Odisha
-Constructed HDI & GDI from scratch (UNDP methodology) over a 2009–2019 panel for policy recommendations.
-
-`Excel, UNDP Methodology`
-
----
-
-## 🎓 Education
-
-- **M.Sc. in Economics** — Vidyasagar University *(CGPA 7.91)*
-- **B.Sc. in Economics** — Raja Narendra Lal Khan Women's College *(CGPA 8.42)*
+- **Concepts:**
+  - Business Analytics
+  - Economic Research & Policy Analysis
+  - Statistical Modelling
+  - Data Storytelling
+  - Problem Solving & Analytical Thinking
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tools & Technologies
 
-<div align="center">
+<p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=durgadamai&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgadamai&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,mysql,github,r" /><br>
 
-</div>
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-EDA%20%26%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-Dashboards-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATA-Statistical%20Analysis-1A1A6E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-Statistical%20Computing-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgadamai&amp;theme=tokyonight&amp;hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=durgadamai&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" />
-
-</div>
+</p>
 
 ---
 
-## 🏆 Trophies
+## 📂 Portfolio Projects
 
-<div align="center">
+### 1. 🧠 Customer Segmentation & Behavioral Analysis (RFM + K-Means)
+_Machine Learning | Python | Power BI_
 
-<img src="https://github-profile-trophy.vercel.app/?username=durgadamai&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7" />
+- 🔍 Analysed **e-commerce transaction data** to segment customers into **5 distinct behavioral groups** using RFM modelling and K-Means clustering
+- 📊 Applied **Elbow Method optimisation** to identify the ideal number of clusters with Scikit-learn
+- 💎 Surfaced **Pareto effect** — top 20% of customers drive 80% of revenue — enabling strategic focus
+- 🤖 Built a **Customer Strategy Engine** generating automated action plans: VIP Retention, Upsell, Re-engagement, and Nurturing per cluster
+- 📈 Visualised cluster patterns using **multi-dimensional scatter plots** and built a **Power BI dashboard** with CLTV heatmaps and strategy recommendation cards
+- 🎯 Delivered data-driven recommendations for:
+  - **Targeted marketing strategies**
+  - **Customer retention planning**
+  - **Revenue growth optimization**
 
-</div>
+**🛠️ Tools Used:** **Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Power BI**
 
 ---
 
-## 🌐 Connect with Me
+### 2. 📈 Demand Forecasting for Retail Store
+_Time Series Analysis | SARIMA | Python_
 
-<div align="center">
+- 📅 Built a **SARIMA time series forecasting model** on 3 years of historical retail sales data
+- 🔄 Handled both **trend and weekly seasonality** using seasonal decomposition techniques
+- 📊 Evaluated model performance using **MAE, RMSE, and MAPE** on a 90-day holdout test set
+- 🔮 Generated a **30-day forward sales forecast** with confidence intervals
+- 📦 Exported forecast results to CSV enabling **data-driven inventory planning** and stockout risk reduction
+- 🎯 Delivered actionable insights for:
+  - **Inventory management**
+  - **Supply chain planning**
+  - **Demand-side business decisions**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durga-damai) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damaidurga10@gmail.com)
-
-</div>
+**🛠️ Tools Used:** **Python, Pandas, Statsmodels, Matplotlib**
 
 ---
 
-<div align="center">
+### 3. 📉 Customer Churn Analysis & Retention Strategy
+_Business Intelligence | Python | Power BI_
 
-### ✨ *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+- ⚠️ Defined churn using a **90-day inactivity rule** and computed churn rates across cohorts
+- 🗺️ Segmented customers into **active vs. churned cohorts** with regional breakdowns
+- 💸 Identified that churned customers contribute **significantly less revenue** — surfacing early-intervention retention opportunities
+- 📊 Built **Power BI dashboards** with churn KPIs, trend analysis, and regional comparisons
+- 🔍 Analysed engagement gaps between cohorts to **guide proactive customer success strategy**
+- 🎯 Delivered recommendations for:
+  - **Retention strategy design**
+  - **Revenue risk mitigation**
+  - **Customer lifecycle management**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
+**🛠️ Tools Used:** **Python, Pandas, Power BI, DAX**
 
-</div>
+---
+
+### 4. 📊 End-to-End Customer & Business Analytics Dashboard
+_Power BI | DAX | Data Modeling_
+
+- 🏗️ Designed a **multi-page Power BI dashboard** integrating:
+  - Revenue trend analysis
+  - Customer churn overview
+  - Conversion funnel
+  - Cohort retention heatmap
+  - CLTV tracking
+  - Product performance comparison
+- ⚙️ Applied **advanced DAX** to compute KPIs: Average Order Value, Profit Margin, churn rate, and segment-level customer lifetime value
+- 📖 Built with a **storytelling-first approach** designed for business stakeholders and decision-makers
+- 🎯 Connected data insights to:
+  - **Executive-level reporting**
+  - **Business strategy decisions**
+  - **Customer value optimization**
+
+**🛠️ Tools Used:** **Power BI, DAX, Data Modeling, SQL**
+
+---
+
+### 5. 🧪 A/B Testing & Statistical Business Impact Analysis
+_Statistical Analysis | Power BI | DAX_
+
+- ⚔️ Compared two marketing campaigns across **CTR, Conversion Rate, and Revenue KPIs**
+- ✅ Built **DAX-based statistical significance validation logic** to confirm Campaign B's outperformance was not due to random variation
+- 💰 Simulated projected **revenue lift at 10,000-user scale**, translating statistical findings into a concrete business case
+- 📊 Delivered a **decision-support dashboard** for marketing budget reallocation
+- 🎯 Provided insights for:
+  - **Marketing strategy optimization**
+  - **Budget allocation decisions**
+  - **Conversion rate improvement**
+
+**🛠️ Tools Used:** **Power BI, DAX, Statistical Analysis**
+
+---
+
+### 6. 🔍 Revenue Anomaly Detection & Root Cause Analysis
+_Anomaly Detection | Power BI | Z-Score_
+
+- 📡 Applied **Z-score methodology** and Power BI's built-in anomaly detection to flag statistically unusual revenue spikes
+- 🔎 Performed **multi-dimensional root cause analysis** across country, product, and customer levels
+- 🌏 Attributed a key revenue spike to **seasonal demand in specific high-performing product-region combinations**
+- 📊 Built dashboards focused on:
+  - **Proactive business monitoring**
+  - **Anomaly-driven decision making**
+  - **Revenue risk identification**
+
+**🛠️ Tools Used:** **Power BI, DAX, Z-Score Analysis**
+
+---
+
+### 7. 🛒 Market Basket Analysis using Apriori Algorithm
+_Association Rules | Python | mlxtend_
+
+- 🧺 Transformed raw transaction data into basket format for association rule mining
+- 📐 Applied the **Apriori algorithm** to identify frequent itemsets across thousands of transactions
+- 📊 Generated association rules ranked by **support, confidence, and lift** to identify cross-sell product pairs
+- 🛍️ Surfaced **high-lift product combinations** to enable:
+  - **Cross-sell recommendations**
+  - **Promotional strategy optimization**
+  - **Store layout planning**
+
+**🛠️ Tools Used:** **Python, Pandas, mlxtend, Matplotlib**
+
+---
+
+### 8. 🗄️ SQL Business Intelligence — Revenue & Customer Analytics
+_SQL | MySQL Workbench_
+
+- 🔍 Wrote **complex SQL queries** to extract business insights from large e-commerce datasets
+- 📊 Analysed: monthly revenue trends, top customers by sales, regional performance breakdowns, category-wise revenue, and Average Order Value
+- 💡 Key insight: A **small group of customers drives the majority of revenue** — validating the Pareto principle
+- 🎯 Delivered SQL-based analytics for:
+  - **Revenue reporting**
+  - **Customer intelligence**
+  - **Business performance tracking**
+
+**🛠️ Tools Used:** **SQL, MySQL Workbench**
+
+---
+
+### 9. 🌍 Economic Research: HDI Comparative Analysis — West Bengal & Odisha
+_Academic Research | SPSS | STATA | Secondary Data_
+
+- 📚 Conducted a **comparative socio-economic analysis** of two Indian states using secondary government data
+- 📊 Constructed **Health Index (HI), Education Index (EI), Standard of Living Index (SLI), and HDI** from raw indicators
+- 🔬 Used **SPSS and STATA** for statistical evaluation of regional development indicators
+- 📌 West Bengal recorded a **higher HDI (0.641)** vs Odisha (0.605) in 2019 — with gaps across all sub-dimensions
+- 🏛️ Synthesised **policy implications** for regional development planning and human capability expansion
+- 🎓 Submitted as academic project, Vidyasagar University (2023)
+
+**🛠️ Tools Used:** **SPSS, STATA, Excel, Secondary Data (UNDP, Census of India)**
+
+---
+
+📌 Continuously working on real-world datasets — business analytics, economic research, and policy-relevant data projects.
+
+---
+
+## 📊 What I Bring
+
+✔️ Ability to clean and transform raw data into meaningful, analysis-ready datasets
+✔️ Strong analytical mindset combining **data science techniques with economics thinking**
+✔️ Experience in building **end-to-end dashboards** for business and research insights
+✔️ Proficiency in **SQL, Python, and Power BI** for data extraction, analysis, and visualisation
+✔️ Academic research background in **development economics and policy analysis**
+✔️ Focus on delivering **actionable insights** — not just visualisations
+
+---
+
+## 🗺️ Learning & Growth
+
+✔️ Advanced SQL (Joins, Window Functions, CTEs)
+✔️ Power BI (Data Modeling, Advanced DAX)
+✔️ Python (Advanced EDA, Machine Learning)
+✔️ Time Series Analysis & Forecasting
+✔️ Statistical Research Methods (STATA, R)
+🔄 Economic Policy Research & Working Papers
+🔄 Interview Preparation & Business Case Studies
+🔄 Deep Learning & Advanced ML (Future Growth)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=damai10&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=damai10&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=damai10&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=damai10&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/durgadamai10/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:damaidurga10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/damai10">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
